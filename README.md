@@ -4,6 +4,12 @@
 
 参考wandb上面的博客。感觉比较简单，就当熟悉流程了。
 
+# arch
+
+2024 0404 0312
+
+issue wandb table
+
 ---
 
 # ref
