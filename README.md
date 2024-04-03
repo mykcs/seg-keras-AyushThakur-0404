@@ -8,7 +8,7 @@
 
 2024 0404 0312
 
-issue wandb table
+issue wandb table（已解决）
 
 ---
 
