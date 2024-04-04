@@ -9,6 +9,7 @@
 2024 0404 0312
 
 kaggle上也有数据集，但是不会改路径。
+https://www.kaggle.com/datasets/devdgohil/the-oxfordiiit-pet-dataset/data
 
 ---
 
